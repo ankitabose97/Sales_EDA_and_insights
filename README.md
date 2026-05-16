@@ -7,7 +7,7 @@ This project focuses on performing Exploratory Data Analysis using Pandas, Seabo
   - Generate actionable business insights and concise summaries to help stakeholders make data-driven decisions for improving revenue and customer experience.
 
 ## Outline of the Project:
-  - i) Libraries import ii) Dataset exploration and Cleaning iii) Groupby tables iv) Visualization in Pandas  - Use Matplotlib and Seaborn to create insightful  visualizations that
+  - i) Libraries import ii) Dataset exploration and Cleaning iii) Groupby tables iv) Visualization in Pandas  - Use Matplotlib and Seaborn to create insightful  visualizations 
 
 ## Questions:
 
